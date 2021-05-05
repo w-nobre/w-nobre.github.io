@@ -1,0 +1,15 @@
+:root {
+    font-size: 10px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #e4c413;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
